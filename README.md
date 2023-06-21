@@ -16,7 +16,7 @@ The Riddermound adventure, with Grub in hiding, the magical torches and several 
 ![](screenshots/03-riddermound.png)
 
 ### Bothhild's Lode
-Four maps
+Four maps (rewamp 2023-06-31)
 * Outside Bothild's Lode (approaching the mine)
 * Inside the first part of the mine (with goblins and wolfs)
 * The Garrison
@@ -24,8 +24,11 @@ Four maps
 
 The maps primarily use the official Dragonebane map as a drawing template and adds tiles onto the map. Players should see only original tiles when playing. Out of the box, these maps only work in FoundryVTT.
 
+Completely new versions of all the maps as of 2023-06-31. The maps use a static background image using forgotten adventures free tiles and. FoundryVTT assets such as walls, lighting, sounds and tokens are added on top. The base maps should be usable outside of foundry. The mines are not exactly a 1:1 represenation of the campaign maps since the forgotten adventures cave tiles are a bit too incompatible in terms of size. But the basic structure of the mine is the same.
+
 ![](screenshots/04-bothild01.png)
 ![](screenshots/04-bothild02.png)
+![](screenshots/04-bothild025.png)
 ![](screenshots/04-bothild03.png)
 
 ### Temple of the Purple Flame
