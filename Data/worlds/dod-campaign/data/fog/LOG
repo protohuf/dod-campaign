@@ -1,7 +1,5 @@
-2023/06/13-12:59:09.202603 7f4bad3fa640 Recovering log #15
-2023/06/13-12:59:09.268230 7f4bad3fa640 Delete type=3 #14
-2023/06/13-12:59:09.268301 7f4bad3fa640 Delete type=0 #15
-2023/06/13-14:36:44.647693 7f4bf1bfa640 Level-0 table #19: started
-2023/06/13-14:36:44.647714 7f4bf1bfa640 Level-0 table #19: 0 bytes OK
-2023/06/13-14:36:44.675582 7f4bf1bfa640 Delete type=0 #17
-2023/06/13-14:36:44.745326 7f4bf1bfa640 Manual compaction at level-0 from '!fog!1S7GIKfnPTKheNSX' @ 72057594037927935 : 1 .. '!fog!z9DryON1t7vAzeyd' @ 0 : 0; will stop at (end)
+2023/06/21-16:32:10.817866 7fe53d1fb640 Recovering log #27
+2023/06/21-16:32:10.818719 7fe53d1fb640 Level-0 table #29: started
+2023/06/21-16:32:10.838421 7fe53d1fb640 Level-0 table #29: 84896 bytes OK
+2023/06/21-16:32:10.895535 7fe53d1fb640 Delete type=3 #25
+2023/06/21-16:32:10.895563 7fe53d1fb640 Delete type=0 #27
