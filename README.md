@@ -1,11 +1,10 @@
-# Spoiler Alert
-This repo contains resources for the Dragonbane started campaign intended for GM's. Consuming this repos might spoil the adventure as a player.
+# Dragonbane Starter Campaign FoundryVTT Game World
+**Spoiler Alert** This repo contains resources for the Dragonbane starter campaign intended for GM's. Consuming this repos might spoil the adventure as a player.
 
-# Contents
+# Content
 
-
-## Maps
-**DISCLAIMER:** During the creation of the campaign maps, I changed techniques several times (due to my lack of experience in foundry and map making). This means that some maps feature heavy use of tiles inside foundry while others use a flat background image on which key tiles are placed. I.e. some maps won't be useful outside of FoundryVTT. See below for details.
+# Maps
+**DISCLAIMER:** During the creation of the campaign maps, I changed techniques several times (due to my lack of experience in foundry and map making). This means that some maps feature heavy use of tiles inside foundry while others use a flat background image on which key tiles are placed. I.e. some maps won't be useful outside of FoundryVTT. See the description for each map (below) for more details.
 
 ### Opening Scene
 The opening scene in the ravine with Wetherman and goblins waiting to ambush the players. This map is made completely inside foundry using tiles and is thus only usable in FoundryVTT.
@@ -16,15 +15,13 @@ The Riddermound adventure, with Grub in hiding, the magical torches and several 
 ![](screenshots/03-riddermound.png)
 
 ### Bothhild's Lode
-Four maps (rewamp 2023-06-31)
+
 * Outside Bothild's Lode (approaching the mine)
 * Inside the first part of the mine (with goblins and wolfs)
 * The Garrison
 * Flooded mines
 
-The maps primarily use the official Dragonebane map as a drawing template and adds tiles onto the map. Players should see only original tiles when playing. Out of the box, these maps only work in FoundryVTT.
-
-Completely new versions of all the maps as of 2023-06-31. The maps use a static background image using forgotten adventures free tiles and. FoundryVTT assets such as walls, lighting, sounds and tokens are added on top. The base maps should be usable outside of foundry. The mines are not exactly a 1:1 represenation of the campaign maps since the forgotten adventures cave tiles are a bit too incompatible in terms of size. But the basic structure of the mine is the same.
+The maps use a static background image using forgotten adventures free tiles and FoundryVTT assets such as walls, lighting, sounds and tokens are added on top. The base maps should be usable outside of foundry. The mines are not exactly a 1:1 represenation of the campaign maps since the forgotten adventures cave tiles are a bit too incompatible in terms of size. But the basic structure of the mine is the same.
 
 ![](screenshots/04-bothild01.png)
 ![](screenshots/04-bothild02.png)
@@ -108,19 +105,22 @@ I've included 9 generic battlemaps from [Forgotten Adventures](https://www.forgo
 
 ### Omens
 One "atmosphere" image for each of the demonic omens
+
 ![](screenshots/omens.png)
 
 ### Random Encounters
 Ten "atmosphere" images for what I consider important encounters, including the map of the misty vale (with correct grid scale so the FoundryVTT measuring tool can be used).
+
 ![](screenshots/travels.png)
 
 ### Outskirts Atmosphere
 Nine scenes to represent various locations in outskirt including the crypt of um-durman, battlemap for the inn and the town.
+
 ![](screenshots/01-outskirts.png)
 
 
 # Requirements
-* Simple World Building System
+* Simple Worldbuilding System
 * FXMaster Module
 * Stairways (Teleporter) Module
 * Michael Ghelfi Audio Pack
