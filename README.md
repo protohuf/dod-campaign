@@ -128,7 +128,7 @@ Nine scenes to represent various locations in outskirt including the crypt of um
 # Installation
 * Copy the contents of the Data/ folder into your FoundryVTT Data/ folder
 * Restart FoundryVTT
-* Default password for the Gamemaster account it **dragonbane**
+* Default password for the Gamemaster account is **dragonbane**
 
 # Acknowledgement
 Tiles and NPC tokens from [Forgotten Adventures](https://www.forgotten-adventures.net/)
