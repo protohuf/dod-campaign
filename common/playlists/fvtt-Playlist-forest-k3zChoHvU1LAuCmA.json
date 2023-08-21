@@ -1,0 +1,41 @@
+{
+  "name": "forest",
+  "sounds": [
+    {
+      "name": "Bbc Forest Atm Nhu9679709",
+      "path": "sound/bsa/bbc_forest-atm_nhu9679709.mp3",
+      "repeat": false,
+      "fade": null,
+      "description": "",
+      "volume": 0.03,
+      "_id": "Bse6bzLuEOv9pjmE",
+      "playing": false,
+      "pausedTime": null,
+      "sort": 0,
+      "flags": {}
+    }
+  ],
+  "mode": 0,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": 964,
+  "flags": {
+    "exportSource": {
+      "world": "dod-en",
+      "system": "dragonbane",
+      "coreVersion": "11.307",
+      "systemVersion": "1.2.0"
+    }
+  },
+  "_stats": {
+    "systemId": "dragonbane",
+    "systemVersion": "1.2.0",
+    "coreVersion": "11.307",
+    "createdTime": 1686136153684,
+    "modifiedTime": 1692483529008,
+    "lastModifiedBy": "onLtC8v0K2iJeAJ6"
+  },
+  "description": ""
+}

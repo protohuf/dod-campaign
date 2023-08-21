@@ -1,0 +1,2370 @@
+{
+  "folder": "DhuDiwZkV5Po2TkW",
+  "name": "BM - Inn",
+  "navigation": true,
+  "navOrder": 0,
+  "navName": "",
+  "background": {
+    "src": "images/campaign/maps/utkante/battlemaps/City%20Tavern%2026x20%20-%20100dpi.jpg",
+    "scaleX": 1,
+    "scaleY": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": 20,
+  "width": 2600,
+  "height": 2000,
+  "padding": 0,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#999999",
+  "grid": {
+    "type": 1,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 2,
+    "units": "m"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1684759169065,
+  "globalLight": true,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [
+    {
+      "name": "Thief",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Rogue_Daggers_01.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "afj4Y2o8wn7KBg2h",
+      "x": 1700,
+      "y": 600,
+      "hidden": false,
+      "_id": "F3IHgRet7WfCLApK",
+      "delta": {
+        "_id": "gH24q0oaLgqidmGQ",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Alfilia Skuggenlöv",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/alfilia-shadowleaf-token.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": "willPoints"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "9Oq8uspbzeD4eUGj",
+      "x": 800,
+      "y": 800,
+      "hidden": false,
+      "_id": "yMy2YP4EGqZwfSJQ",
+      "delta": {
+        "_id": "kjJfAeWNlwdVbTKQ",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Vagnhild",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/vagnhild-token.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "14UzH2GwruQKJBH9",
+      "x": 1600,
+      "y": 1200,
+      "hidden": false,
+      "_id": "uhDTLrf8Y4uEVG1d",
+      "delta": {
+        "_id": "oO4lJ1VNusG4uhon",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Leanara / Annabella",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/leanara-annabella-token.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": "willPoints"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "jOINQqptbeLitogw",
+      "x": 1400,
+      "y": 900,
+      "hidden": false,
+      "_id": "7KmpSWf8bVCThUWU",
+      "delta": {
+        "_id": "D3KxsEkZLZyCsgDV",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Kvasimund",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/quasimund-token.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": "willPoints"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "mmwtYTXz5XNCfryw",
+      "x": 1400,
+      "y": 700,
+      "hidden": false,
+      "_id": "OM2Nff1Ja8anp3SK",
+      "delta": {
+        "_id": "wmelOmyutEte7e9r",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Kvasimunds drägg",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/quasimunds-scum-token3.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "QbhrLiqd6RfdLNDr",
+      "x": 1300,
+      "y": 600,
+      "hidden": false,
+      "_id": "lYFjv8VnqXiWgQkL",
+      "delta": {
+        "_id": "MASijfMzsHCBm2IL",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Kvasimunds drägg",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/quasimunds-scum-token2.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "QbhrLiqd6RfdLNDr",
+      "x": 1200,
+      "y": 700,
+      "hidden": false,
+      "_id": "okQx1p9A4RELcHzm",
+      "delta": {
+        "_id": "f59iZzNIIpGKjFQy",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Kvasimunds drägg",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/quasimunds-scum-token1.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "QbhrLiqd6RfdLNDr",
+      "x": 1300,
+      "y": 800,
+      "hidden": false,
+      "_id": "2ttBXqNAWFCUOpRR",
+      "delta": {
+        "_id": "YRJdY6cG9PGTVxuq",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Beväpnade bybor",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/armed-villagers-token2.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "5PHtM90Iauu2DZuV",
+      "x": 1200,
+      "y": 300,
+      "hidden": false,
+      "_id": "0MH4DY8jjyPGNUu8",
+      "delta": {
+        "_id": "ol1CE5xnAaUYNZ7N",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Beväpnade bybor",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/armed-villagers-token1.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "5PHtM90Iauu2DZuV",
+      "x": 1000,
+      "y": 300,
+      "hidden": false,
+      "_id": "spRZelj2fhisQjlt",
+      "delta": {
+        "_id": "TmfSZLG3LQN4dwCq",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Beväpnade bybor",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/armed-villagers-token2.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "5PHtM90Iauu2DZuV",
+      "x": 1000,
+      "y": 400,
+      "hidden": false,
+      "_id": "0Cc48axJP3meRDma",
+      "delta": {
+        "_id": "wsLSRP5jwlJwBTlb",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Äventyrare",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Barbarian_Greataxe_01.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "mwgqyKW6cRDnam13",
+      "x": 800,
+      "y": 300,
+      "hidden": false,
+      "_id": "fBuAM4dmituBlPhp",
+      "delta": {
+        "_id": "PqDnuMShYxA17ZFt",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Jägare",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Ranger_Bow_01.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "MdBbbtJCVm7EuXqK",
+      "x": 600,
+      "y": 300,
+      "hidden": false,
+      "_id": "xOmH39HGNVrlQgan",
+      "delta": {
+        "_id": "eoHkNDFMNa38CHOW",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Lärd",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "Tokens/npc/Tokens/NPCs/Townsfolk/Human/Human_Male_Crier_04.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "PMAtWBPDi4aEXAlO",
+      "x": 600,
+      "y": 400,
+      "hidden": false,
+      "_id": "qtnTasHLc0s63CP9",
+      "delta": {
+        "_id": "XBTeEskTWMJNGTeJ",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Bybo",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "Tokens/npc/FA_Tokens/NPCs/Townsfolk_02/Townsfolk_AC1_01.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "qLuKuBWXOQ6mWY67",
+      "x": 1300,
+      "y": 1300,
+      "hidden": false,
+      "_id": "3DV7tkoq2aEVycwt",
+      "delta": {
+        "_id": "4pU3exaQG513e5ON",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Bybo",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "Tokens/npc/FA_Tokens/NPCs/Townsfolk_02/Townsfolk_AA1_01.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "qLuKuBWXOQ6mWY67",
+      "x": 1200,
+      "y": 1400,
+      "hidden": false,
+      "_id": "HMTzrdT6ceiQxxqu",
+      "delta": {
+        "_id": "lFP9qtJWfFpSbFMb",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    }
+  ],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        600,
+        212,
+        912,
+        212
+      ],
+      "_id": "LJ5beWzvZOIRZ30D",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1300,
+        212,
+        1800,
+        212
+      ],
+      "_id": "iQEgxUNvX6wjAgdP",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        2200,
+        600,
+        2200,
+        1300
+      ],
+      "_id": "ahHT1eOQlt48tcmk",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1400,
+        1600,
+        1800,
+        1600
+      ],
+      "_id": "TPlsqNUkL58j3lAj",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1300,
+        1600,
+        1200,
+        1600
+      ],
+      "_id": "iPFz28xvJ04nkC1F",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1000,
+        1600,
+        900,
+        1600
+      ],
+      "_id": "cQJcn3t8ZxciMIoJ",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        800,
+        1600,
+        600,
+        1600
+      ],
+      "_id": "QibGWDgYS5GS55TA",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        600,
+        1400,
+        600,
+        1600
+      ],
+      "_id": "PnsXCV4eVy7HIEZK",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        600,
+        1300,
+        600,
+        1000
+      ],
+      "_id": "OxLwi1lbxUFNUGSe",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        600,
+        800,
+        600,
+        500
+      ],
+      "_id": "bgXtJwsPblVcin8L",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        600,
+        400,
+        600,
+        212
+      ],
+      "_id": "V2HkI47Se9r6eRt7",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1800,
+        1500,
+        1800,
+        1600
+      ],
+      "_id": "LdDa8wz8NeCMOrqF",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        2200,
+        1600,
+        1800,
+        1600
+      ],
+      "_id": "kwPWlQBkeeuE2sqH",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1800,
+        1412,
+        1800,
+        1300
+      ],
+      "_id": "wzZhd2c5AEqTjwHN",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1912,
+        1300,
+        1800,
+        1300
+      ],
+      "_id": "n2cDOGCVGkIjS2AK",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1987,
+        1300,
+        2200,
+        1300
+      ],
+      "_id": "N2Mj7YHG9vjBQCJa",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        2200,
+        1300,
+        2200,
+        1600
+      ],
+      "_id": "Y3mpmk9HhILxqRIx",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1800,
+        887,
+        1800,
+        1300
+      ],
+      "_id": "SuJNp8yNXjbZvHEI",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1800,
+        600,
+        1800,
+        812
+      ],
+      "_id": "UStUFjT4uOexL5Od",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1912,
+        600,
+        1800,
+        600
+      ],
+      "_id": "8LVWYDK73S83kBNJ",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1987,
+        600,
+        2200,
+        600
+      ],
+      "_id": "46SZxW5gt44hJn5s",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        2200,
+        212,
+        2200,
+        600
+      ],
+      "_id": "CaAlxGj1DwHi1gCT",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1800,
+        212,
+        1800,
+        600
+      ],
+      "_id": "DVhNGUBR5YHTOtEM",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1800,
+        212,
+        2200,
+        212
+      ],
+      "_id": "JIfmW80WAKZr7HEX",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1587,
+        600,
+        1800,
+        600
+      ],
+      "_id": "FNj9A2ymHPvDfz0C",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1300,
+        600,
+        1300,
+        212
+      ],
+      "_id": "Nc7EC5B6F0KIgia8",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1000,
+        212,
+        1300,
+        212
+      ],
+      "_id": "X9EjAFwKShDHhHHC",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1512,
+        600,
+        1300,
+        600
+      ],
+      "_id": "jSixJWbsDbYANAJi",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "door": 1,
+      "c": [
+        1800,
+        1500,
+        1800,
+        1412
+      ],
+      "_id": "oVa4ruz3eb9zpmkw",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "door": 1,
+      "c": [
+        1912,
+        1300,
+        1987,
+        1300
+      ],
+      "_id": "vIHXWxFTbZosqloJ",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "door": 1,
+      "c": [
+        1800,
+        812,
+        1800,
+        887
+      ],
+      "_id": "B0CVluigklNO4W7L",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "door": 1,
+      "c": [
+        1912,
+        600,
+        1987,
+        600
+      ],
+      "_id": "QmRdYiWQpz2oiLD1",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "door": 1,
+      "c": [
+        1512,
+        600,
+        1587,
+        600
+      ],
+      "_id": "zK3nb8urvWyYzHYk",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        800,
+        800,
+        600,
+        800
+      ],
+      "_id": "uHIYB2HOKrUy8jqv",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        600,
+        900,
+        600,
+        800
+      ],
+      "_id": "TdgOxRFLJEGKCrkA",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "light": 30,
+      "sight": 30,
+      "sound": 20,
+      "move": 20,
+      "threshold": {
+        "light": 4,
+        "sight": 4,
+        "attenuation": true,
+        "sound": null
+      },
+      "c": [
+        912,
+        212,
+        1000,
+        212
+      ],
+      "_id": "p3My6saGAZZOX55L",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "light": 30,
+      "sight": 30,
+      "sound": 20,
+      "move": 20,
+      "threshold": {
+        "light": 4,
+        "sight": 4,
+        "attenuation": true,
+        "sound": null
+      },
+      "c": [
+        600,
+        400,
+        600,
+        500
+      ],
+      "_id": "qL1cSEH3LZHvO0Lw",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "light": 30,
+      "sight": 30,
+      "sound": 20,
+      "move": 20,
+      "threshold": {
+        "light": 4,
+        "sight": 4,
+        "attenuation": true,
+        "sound": null
+      },
+      "c": [
+        1300,
+        1600,
+        1400,
+        1600
+      ],
+      "_id": "GpYKNty4m65GoMtT",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "light": 30,
+      "sight": 30,
+      "sound": 20,
+      "move": 20,
+      "threshold": {
+        "light": 4,
+        "sight": 4,
+        "attenuation": true,
+        "sound": null
+      },
+      "c": [
+        800,
+        1600,
+        900,
+        1600
+      ],
+      "_id": "EgTUF0Ntq7vH7rDc",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "light": 30,
+      "sight": 30,
+      "sound": 20,
+      "move": 20,
+      "threshold": {
+        "light": 4,
+        "sight": 4,
+        "attenuation": true,
+        "sound": null
+      },
+      "c": [
+        600,
+        1300,
+        600,
+        1400
+      ],
+      "_id": "XuBdffSxy7nZvO0z",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "light": 30,
+      "sight": 30,
+      "sound": 20,
+      "move": 20,
+      "threshold": {
+        "light": 4,
+        "sight": 4,
+        "attenuation": true,
+        "sound": null
+      },
+      "c": [
+        600,
+        900,
+        600,
+        1000
+      ],
+      "_id": "CL09pfE8jB64dTMs",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "door": 1,
+      "c": [
+        1000,
+        1600,
+        1200,
+        1600
+      ],
+      "_id": "Bb7JzaoLLCzSbz5n",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    }
+  ],
+  "playlist": "JkVS8ow426HLnCf8",
+  "playlistSound": "AzOCYMblDBdYxyWd",
+  "journal": null,
+  "journalEntryPage": null,
+  "flags": {
+    "exportSource": {
+      "world": "dod-sv",
+      "system": "dragonbane",
+      "coreVersion": "11.307",
+      "systemVersion": "1.2.0"
+    }
+  },
+  "_stats": {
+    "systemId": "dragonbane",
+    "systemVersion": "1.2.0",
+    "coreVersion": "11.307",
+    "createdTime": 1684759169080,
+    "modifiedTime": 1692643148640,
+    "lastModifiedBy": "7qWsmSge6CfQNJYp"
+  },
+  "foreground": null,
+  "thumb": "worlds/dod-en/assets/scenes/LTLinBddw3613Qny-thumb.webp",
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "weather": ""
+}

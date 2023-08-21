@@ -1,0 +1,74 @@
+{
+  "folder": "GStKgq9yhGPuDju3",
+  "name": "Wounded Adventurers",
+  "navigation": true,
+  "navOrder": 0,
+  "navName": "WA",
+  "background": {
+    "src": "images/campaign/maps/travel/wounded-adventurers.jpg",
+    "scaleX": 1,
+    "scaleY": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": 20,
+  "width": 475,
+  "height": 633,
+  "padding": 0,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#999999",
+  "grid": {
+    "type": 0,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 2,
+    "units": "m"
+  },
+  "tokenVision": false,
+  "fogExploration": false,
+  "fogReset": 1684755892922,
+  "globalLight": false,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": "oYnqw5wAQhiWckGF",
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "flags": {
+    "exportSource": {
+      "world": "dod-en",
+      "system": "dragonbane",
+      "coreVersion": "11.307",
+      "systemVersion": "1.2.0"
+    }
+  },
+  "_stats": {
+    "systemId": "dragonbane",
+    "systemVersion": "1.2.0",
+    "coreVersion": "11.307",
+    "createdTime": 1684755892938,
+    "modifiedTime": 1692482654755,
+    "lastModifiedBy": "onLtC8v0K2iJeAJ6"
+  },
+  "foreground": null,
+  "thumb": "worlds/dod-en/assets/scenes/6FN05qrqnAh3jx2B-thumb.webp",
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "weather": ""
+}

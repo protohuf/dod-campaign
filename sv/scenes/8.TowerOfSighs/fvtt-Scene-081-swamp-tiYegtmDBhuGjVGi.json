@@ -1,0 +1,4027 @@
+{
+  "folder": "knY1oI4w06qOKX9f",
+  "name": "081 Swamp",
+  "navigation": true,
+  "navOrder": 0,
+  "navName": "",
+  "background": {
+    "src": "images/campaign/maps/08-suckarnas_torn2.png",
+    "scaleX": 1,
+    "scaleY": 1,
+    "offsetX": -24,
+    "offsetY": -5,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": 20,
+  "width": 5700,
+  "height": 4275,
+  "padding": 0,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#999999",
+  "grid": {
+    "type": 1,
+    "size": 50,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 2,
+    "units": "m"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1683455597976,
+  "globalLight": true,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [
+    {
+      "name": "Glamglam",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/bestiary/giant-token.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 4,
+      "height": 4,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "aQgoy3Isu2f9XgkH",
+      "x": 3000,
+      "y": 2000,
+      "hidden": false,
+      "_id": "SVvjVV5ZaAKm6KbI",
+      "delta": {
+        "_id": "DM8SX7LmzIpWsbeN",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Ursik Enöra",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/ursic-token.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": "willPoints"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "GQuSOt4mfNvnvlSR",
+      "x": 2650,
+      "y": 2300,
+      "hidden": false,
+      "_id": "frNeO6tGxP6CiLXI",
+      "delta": {
+        "_id": "4naujacdZbRLB7YQ",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Rövare",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/bandits-token3.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "7L8dLImOTWrU7R9G",
+      "x": 2650,
+      "y": 2400,
+      "hidden": false,
+      "_id": "kzJfcrF9DYYeZNKs",
+      "delta": {
+        "_id": "aa04JLN3q4Luf7bF",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Rövare",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/bandits-token1.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "7L8dLImOTWrU7R9G",
+      "x": 2550,
+      "y": 2400,
+      "hidden": false,
+      "_id": "hFqyTnE2AbpxCxlq",
+      "delta": {
+        "_id": "4TTBOhBMCyk4teVn",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Rövare",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/bandits-token2.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "7L8dLImOTWrU7R9G",
+      "x": 2550,
+      "y": 2250,
+      "hidden": false,
+      "_id": "jEJmfdNUGiCzJ1Ji",
+      "delta": {
+        "_id": "bt9WV5D16lYGTqw6",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Rilke",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/bandits-rilke-token.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "SvNCDub3m1JWjdTO",
+      "x": 200,
+      "y": 3900,
+      "hidden": false,
+      "_id": "0NwmuXqPWN3FGmNp",
+      "delta": {
+        "_id": "S5BDfKFgmQ5GwcTt",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    },
+    {
+      "name": "Feder",
+      "displayName": 0,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/dragonbane-grundspel/assets/tokens/adventure/bandits-feder-token.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "hitPoints"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "flags": {},
+      "appendNumber": false,
+      "prependAdjective": false,
+      "actorId": "ympquPVCNs2pChI5",
+      "x": 150,
+      "y": 3850,
+      "hidden": false,
+      "_id": "Mrahql8S3A65GivE",
+      "delta": {
+        "_id": "wpWlqzxQ0V13Tf1l",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null
+      },
+      "elevation": 0,
+      "effects": []
+    }
+  ],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [
+    {
+      "texture": {
+        "src": "tiles/textures/rock/Rock_Texture_A_03.jpg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3000,
+      "y": 1950,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "_id": "Xeh3dH8lu4LLkqeu",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/textures/rock/Rock_Texture_A_03.jpg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3100,
+      "y": 1950,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "LB4qNbLL8G3LS6yo"
+    },
+    {
+      "texture": {
+        "src": "tiles/textures/rock/Rock_Texture_A_03.jpg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3000,
+      "y": 2050,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "HV8TBAhWhnXDOuLO"
+    },
+    {
+      "texture": {
+        "src": "tiles/textures/rock/Rock_Texture_A_03.jpg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3200,
+      "y": 2000,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "GOVCsJeuFtL3K0ZO"
+    },
+    {
+      "texture": {
+        "src": "tiles/textures/rock/Rock_Texture_A_03.jpg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3000,
+      "y": 2100,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "4GqupYv1jy8pxzhb"
+    },
+    {
+      "texture": {
+        "src": "tiles/textures/rock/Rock_Texture_A_03.jpg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3100,
+      "y": 2100,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "9S4wVcQyp2ZSHdJB"
+    },
+    {
+      "texture": {
+        "src": "tiles/textures/rock/Rock_Texture_A_03.jpg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3250,
+      "y": 2000,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "qSnzE6mmA4spfIw0"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/stairs/Stairs_Turn_Rock_C_01.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3100,
+      "y": 2050,
+      "width": 75,
+      "height": 75,
+      "overhead": false,
+      "_id": "VJybz36m5jbyg8WI",
+      "z": 99,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/textures/rock/Rock_Texture_A_03.jpg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3150,
+      "y": 2050,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "IeIHcKhgGjEZBvKB"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Straight_C_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3050,
+      "y": 1900,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "sfwGa1VInZuADkoJ"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Corner_A_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2950,
+      "y": 1900,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "_id": "J1YwAB4fp7O6bQuI",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Straight_C_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3100,
+      "y": 1900,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "zB0KUcnLmNskod2J"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Straight_C_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2950,
+      "y": 2000,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 106,
+      "rotation": 90,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "I4fO9Ldm2ft25b2p"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Straight_C_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2950,
+      "y": 2100,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 105,
+      "rotation": 90,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "CwLuFYk9Fi0mulAF"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Corner_A_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2950,
+      "y": 2150,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 104,
+      "rotation": 270,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "ySbhDTR9EswqXzAi"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Straight_C_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3050,
+      "y": 2150,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 103,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "Rr7nvjhWX4r8MC0d"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Straight_C_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3100,
+      "y": 2150,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "vNVglxMrohL6RZWD"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Corner_A_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3150,
+      "y": 1900,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 90,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "bjONTII3sbCzZBSC"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Corner_A_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3150,
+      "y": 1950,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 270,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "llxyLh6FZFbdtU2W"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Corner_B_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3150,
+      "y": 2100,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "_id": "986bdkQjq0QAESVe",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Corner_A_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3150,
+      "y": 2150,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 102,
+      "rotation": 180,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "rZObQAe5LVwm7SzX"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Straight_C_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3250,
+      "y": 1950,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 101,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "1aSwf4j1xJWugIV3"
+    },
+    {
+      "texture": {
+        "src": "tiles/textures/rock/Rock_Texture_A_03.jpg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3250,
+      "y": 2050,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "pe2cWi4U6mxkP7N4"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Connector_DIAG_A_3x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3275,
+      "y": 1975,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "_id": "RPCC1seIF19rtcPc",
+      "z": 100,
+      "rotation": 300,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/walls/Wall_Stone_C/Wall_Stone_Volcanic_C_Straight_C_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3300,
+      "y": 2050,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 120,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "wO5lnliSneQ2fvv6"
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/Doors/Fallen/Door_Fallen_Wood_Walnut_I2_2x2.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3300,
+      "y": 2125,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "_id": "6QcdLtcoM1drL8F0",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/Moss/Moss_A_Brown_Straight_C_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3200,
+      "y": 1875,
+      "width": 200,
+      "height": 200,
+      "overhead": false,
+      "_id": "1o8g2DbbRCYJu8aq",
+      "z": 98,
+      "rotation": 90,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/Moss/Moss_A_Brown_Pile_G_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3175,
+      "y": 2075,
+      "width": 200,
+      "height": 200,
+      "overhead": false,
+      "_id": "8HANbvTIMKHouxUb",
+      "z": 97,
+      "rotation": 15,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/Moss/Moss_A_Brown_Pile_C_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3225,
+      "y": 2100,
+      "width": 200,
+      "height": 200,
+      "overhead": false,
+      "_id": "bM9Fr9TjauE5nAeE",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/trees/tree_tops/Tree_Green_D3_5x5.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2700,
+      "y": 1950,
+      "width": 250,
+      "height": 250,
+      "overhead": true,
+      "_id": "1snng09LCQiWTHq5",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/Stumps/Stump_Dark_07.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2750,
+      "y": 2000,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "_id": "JJOF9sWwhNscFJKu",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2275,
+      "y": 2275,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "_id": "79Hmxha5VEBYOZpZ",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2725,
+      "y": 2400,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "_id": "gC7PrTNlb78QQpEt",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_E5_2x2.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2500,
+      "y": 2075,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "_id": "NYHhvYEYrTuxadaM",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2350,
+      "y": 2150,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "8I2tGDBcg29Ks6qZ"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2150,
+      "y": 2250,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "08TkN5GKmd2LmW8U"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_E5_2x2.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2225,
+      "y": 2525,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "H5hFbDNbF4DJ2wsi"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_E5_2x2.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2100,
+      "y": 2600,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "OzSybTqmey8SWEIb"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2200,
+      "y": 2650,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "5aEJpR45r2OkvXBM"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2375,
+      "y": 2625,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "Um38ABi75xI9a8Kt"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_E5_2x2.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2100,
+      "y": 2350,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "Uvlju7J3UkIWtBRJ"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 4300,
+      "y": 2850,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "s2ZniEq3ihAB4lWF"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 4150,
+      "y": 3100,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "ge5AIwwPqSGP9mDN"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 1200,
+      "y": 700,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "kLeVLJJkKKCvykzJ"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 850,
+      "y": 1650,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "qEgKPTPqEKaxtDrS"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2150,
+      "y": 1200,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "3zIrsaXjCBCWQTOa"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 4050,
+      "y": 450,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "awr8TmSgjpkH9blf"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3450,
+      "y": 950,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "xZdnKEyNYA1bfN4r"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2900,
+      "y": 400,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "UVaY1gFjDcgeEXA3"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2050,
+      "y": 1700,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "kDAXI7NepSAICPER"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 1250,
+      "y": 2500,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "5TSI4Bu6K1SSsiWx"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3550,
+      "y": 2550,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "uki5hQMMmzu68aCe"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D3_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 5100,
+      "y": 1400,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "yyySWxSUNpdblFKy"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2350,
+      "y": 1750,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "59W1vVnFQWLGN40j"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 1500,
+      "y": 1950,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "gmSzzzIAwjCmkvno"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 750,
+      "y": 2200,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "k3tlaGAo5ckLXlgB"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 750,
+      "y": 1250,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "lRvSfx8dRZd6wu0C"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 400,
+      "y": 2150,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "x1C7aoXhwPenshUL"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 4600,
+      "y": 2250,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "vj9FbplQayITYREn"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 4700,
+      "y": 3150,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "1DB71XKmLeTPmaEp"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 4450,
+      "y": 3000,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "pvibqQTwrbnwqyGq"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3350,
+      "y": 3500,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "Y3bw9OJkrakr51qr"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2250,
+      "y": 3300,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "YfjLZGLJ8ym4oXVb"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/bushes/yello/Bush_Yellow_D2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 1150,
+      "y": 3300,
+      "width": 150,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "efVvqefqRcar29To"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/Logs/Log_Ashen_A1_6x3.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3025,
+      "y": 1750,
+      "width": 150,
+      "height": 50,
+      "overhead": false,
+      "_id": "aet8FmSi6EBlJnwN",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/trees/bare/Bare_Tree_Ashen_A6_8x8.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2650,
+      "y": 1550,
+      "width": 300,
+      "height": 300,
+      "overhead": false,
+      "_id": "x9Y6oYnlPBAk8eNo",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/trees/bare/Bare_Tree_Ashen_A6_8x8.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 1800,
+      "y": 1250,
+      "width": 300,
+      "height": 300,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "JBs1oPp5mZEAyvQV"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/trees/bare/Bare_Tree_Ashen_A6_8x8.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3050,
+      "y": 1200,
+      "width": 300,
+      "height": 300,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "MQBJ2uRQZlKj8AyZ"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/trees/bare/Bare_Tree_Ashen_A6_8x8.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3750,
+      "y": 3050,
+      "width": 300,
+      "height": 300,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "j55xkMMAZ8cG7Z2T"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/trees/bare/Bare_Tree_Ashen_A6_8x8.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 1450,
+      "y": 3100,
+      "width": 300,
+      "height": 300,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "BQIslDuLQVrsfCEk"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/trees/bare/Bare_Tree_Ashen_A6_8x8.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 700,
+      "y": 2600,
+      "width": 300,
+      "height": 300,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "Ijwr3goB7gmVG4sI"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/trees/bare/Bare_Tree_Ashen_A6_8x8.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 500,
+      "y": 1550,
+      "width": 300,
+      "height": 300,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "GV2jhjXfUE0LUvuP"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/flora/trees/bare/Bare_Tree_Ashen_A6_8x8.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3750,
+      "y": 800,
+      "width": 300,
+      "height": 300,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "t7qdRJcHzOXGGJhG"
+    },
+    {
+      "texture": {
+        "src": "tiles/Lightsources/Campfires_and_Firepits/Campfire_A_Embers2_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2600,
+      "y": 2350,
+      "width": 50,
+      "height": 50,
+      "overhead": false,
+      "_id": "aWRIIU9YAf5KnXoT",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/Decor/Clutter/Kitchenware/Cauldrons/Cauldron_Metal_Gray_B1_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2525,
+      "y": 2300,
+      "width": 75,
+      "height": 75,
+      "overhead": false,
+      "_id": "K599245UEihHxV15",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/tent/tent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2575,
+      "y": 2225,
+      "width": 100,
+      "height": 125,
+      "overhead": false,
+      "_id": "ex62rwc18qh8CYog",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/Structures/tent/tent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 2575,
+      "y": 2400,
+      "width": 100,
+      "height": 125,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "W3ySnfzzZPlZnzt6"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/rubble/piles/stone/Rubble_Pile_Stone_Earthy_A15_9x5.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3000,
+      "y": 2125,
+      "width": 125,
+      "height": 75,
+      "overhead": false,
+      "_id": "k6A6Crwi4iPq9RYP",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/rubble/piles/stone/Rubble_Pile_Stone_Earthy_A13_2x4.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3300,
+      "y": 2175,
+      "width": 100,
+      "height": 150,
+      "overhead": false,
+      "_id": "1Ww36Q1JrICZBV9s",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/rubble/piles/stone/Rubble_Pile_Stone_Earthy_A15_9x5.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3050,
+      "y": 2100,
+      "width": 125,
+      "height": 75,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "DtcFd0p6svE5q1k6"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/rubble/piles/stone/Rubble_Pile_Stone_Earthy_A13_2x4.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3125,
+      "y": 2075,
+      "width": 100,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "jeK3goXwz2H98UTs"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/rubble/piles/stone/Rubble_Pile_Stone_Earthy_A13_2x4.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3000,
+      "y": 2025,
+      "width": 100,
+      "height": 150,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "bxFdtX3wSWfYxsRj"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/rubble/piles/stone/Rubble_Pile_Stone_Earthy_A15_9x5.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3175,
+      "y": 2050,
+      "width": 125,
+      "height": 75,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "kD3YUSjh63k1urcH"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/rubble/piles/stone/Rubble_Pile_Stone_Earthy_A15_9x5.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3150,
+      "y": 2025,
+      "width": 125,
+      "height": 75,
+      "overhead": false,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_id": "8woto7ijoI8gymvJ"
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/gravel_path/Path_Thick_Straight_A.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3000,
+      "y": 1950,
+      "width": 150,
+      "height": 100,
+      "overhead": false,
+      "_id": "rG4J4S1qDxf9IqZI",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "tiles/terrain/rubble/piles/stone/Rubble_Pile_Stone_Earthy_A1_1x1.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3075,
+      "y": 2025,
+      "width": 100,
+      "height": 100,
+      "overhead": false,
+      "_id": "8jDz19UjusX9CFVQ",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    },
+    {
+      "texture": {
+        "src": "icons/sundries/misc/ladder-improvised.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "x": 3150,
+      "y": 2000,
+      "width": 50,
+      "height": 50,
+      "overhead": false,
+      "_id": "f2UaUcd8GVllKi6B",
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "roof": false,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {}
+    }
+  ],
+  "walls": [
+    {
+      "_id": "89aWEBpIdrdztUsf",
+      "c": [
+        3000,
+        1950,
+        3200,
+        1950
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "RtLocYvwtyEPXir8",
+      "c": [
+        3200,
+        1950,
+        3200,
+        2000
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "AeGWeJKcs7SWepL8",
+      "c": [
+        3200,
+        2000,
+        3350,
+        2000
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "fPNEEa8zOrnHsF6f",
+      "c": [
+        3350,
+        2000,
+        3325,
+        2050
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "3MoqYiKc5rPI2Eky",
+      "c": [
+        3325,
+        2050,
+        3375,
+        2062
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "9zImnIb2RiB6baWb",
+      "c": [
+        3375,
+        2062,
+        3337,
+        2137
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "P2eJZTa8pDE5qLKp",
+      "c": [
+        3000,
+        1950,
+        3000,
+        2200
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "9gCstqNhgMIkodPe",
+      "c": [
+        3000,
+        2200,
+        3200,
+        2200
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "fjtwBavWg1Rt8p6s",
+      "c": [
+        3200,
+        2200,
+        3200,
+        2150
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "JpWlRTlHoiRXutB5",
+      "c": [
+        3200,
+        2150,
+        3250,
+        2150
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "yGL4eLsEZJRws8KM",
+      "c": [
+        2825,
+        2050,
+        2800,
+        2062
+      ],
+      "light": 10,
+      "move": 20,
+      "sight": 10,
+      "sound": 10,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "4GmDJbBpkBBW16o5",
+      "c": [
+        2800,
+        2062,
+        2800,
+        2087
+      ],
+      "light": 10,
+      "move": 20,
+      "sight": 10,
+      "sound": 10,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "eeyVVocEN68gaBhr",
+      "c": [
+        2800,
+        2087,
+        2812,
+        2112
+      ],
+      "light": 10,
+      "move": 20,
+      "sight": 10,
+      "sound": 10,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "eZLtt8Ne4ChlAf48",
+      "c": [
+        2812,
+        2112,
+        2850,
+        2112
+      ],
+      "light": 10,
+      "move": 20,
+      "sight": 10,
+      "sound": 10,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "SdcAeRZvLgLemjPd",
+      "c": [
+        2850,
+        2112,
+        2862,
+        2100
+      ],
+      "light": 10,
+      "move": 20,
+      "sight": 10,
+      "sound": 10,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "cuAF1EwjJ6F71By6",
+      "c": [
+        2862,
+        2100,
+        2850,
+        2062
+      ],
+      "light": 10,
+      "move": 20,
+      "sight": 10,
+      "sound": 10,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "wK4PrfLr6a7IJ0sT",
+      "c": [
+        2850,
+        2062,
+        2825,
+        2050
+      ],
+      "light": 10,
+      "move": 20,
+      "sight": 10,
+      "sound": 10,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    }
+  ],
+  "playlist": "nG8XuNc9z235uJg9",
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "flags": {
+    "stairways": [
+      {
+        "_id": "tXmvR6BTc8Fy4KWt",
+        "scene": "Cn2XDuH6PWpf9rFe",
+        "name": "sw-pbgpD1dE",
+        "x": 3175,
+        "y": 2000,
+        "label": "",
+        "fontFamily": "",
+        "fontSize": null,
+        "textColor": null,
+        "icon": null,
+        "width": null,
+        "height": null,
+        "disabled": false,
+        "hidden": false,
+        "animate": false,
+        "partnerSceneLabel": false
+      }
+    ],
+    "exportSource": {
+      "world": "dod-sv",
+      "system": "dragonbane",
+      "coreVersion": "11.307",
+      "systemVersion": "1.2.0"
+    }
+  },
+  "_stats": {
+    "systemId": "dragonbane",
+    "systemVersion": "1.2.0",
+    "coreVersion": "11.307",
+    "createdTime": 1683455569620,
+    "modifiedTime": 1692644544213,
+    "lastModifiedBy": "7qWsmSge6CfQNJYp"
+  },
+  "foreground": null,
+  "thumb": "worlds/dod-campaign/assets/scenes/g381ZiR0F0NgUo6l-thumb.webp",
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "weather": "rain"
+}

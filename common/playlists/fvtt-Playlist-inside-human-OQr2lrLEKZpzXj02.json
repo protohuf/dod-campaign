@@ -1,0 +1,41 @@
+{
+  "name": "inside human",
+  "sounds": [
+    {
+      "name": "Bbc Human Effe 07068035",
+      "path": "sound/bsa/bbc_human-effe_07068035.mp3",
+      "repeat": false,
+      "fade": null,
+      "description": "",
+      "volume": 0.03,
+      "_id": "rOoSUcdGVB8MmM2b",
+      "playing": false,
+      "pausedTime": null,
+      "sort": 0,
+      "flags": {}
+    }
+  ],
+  "mode": 0,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": 92,
+  "flags": {
+    "exportSource": {
+      "world": "dod-en",
+      "system": "dragonbane",
+      "coreVersion": "11.307",
+      "systemVersion": "1.2.0"
+    }
+  },
+  "_stats": {
+    "systemId": "dragonbane",
+    "systemVersion": "1.2.0",
+    "coreVersion": "11.307",
+    "createdTime": 1686131504444,
+    "modifiedTime": 1692483537658,
+    "lastModifiedBy": "onLtC8v0K2iJeAJ6"
+  },
+  "description": ""
+}

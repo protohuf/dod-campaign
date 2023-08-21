@@ -1,0 +1,232 @@
+{
+  "name": "michaelghelfi-music",
+  "sounds": [
+    {
+      "name": "Beyondthefrostbarrier",
+      "path": "modules/michaelghelfi/music/BeyondTheFrostBarrier.mp3",
+      "_id": "AFS3TfnZfBRs8AmJ",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Crimsonarchers",
+      "path": "modules/michaelghelfi/music/CrimsonArchers.mp3",
+      "_id": "EiqmhM6rNIkqctXK",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Crimsoncrowbrimstonecircle",
+      "path": "modules/michaelghelfi/music/CrimsonCrowBrimstoneCircle.mp3",
+      "_id": "CVzaSDQAZeyJByLL",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Demetrianstheme",
+      "path": "modules/michaelghelfi/music/DemetriansTheme.mp3",
+      "_id": "boMNhNOzengucEKC",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Evergreeneverlasting",
+      "path": "modules/michaelghelfi/music/EvergreenEverlasting.mp3",
+      "_id": "itGv0omDR4wBAv5A",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Hope",
+      "path": "modules/michaelghelfi/music/Hope.mp3",
+      "_id": "6dsTBDCaUEXFuWoG",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Kingdomsandconquerors",
+      "path": "modules/michaelghelfi/music/KingdomsandConquerors.mp3",
+      "_id": "Jq8OBQdq2oB8D8sR",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Paladinsresolve",
+      "path": "modules/michaelghelfi/music/PaladinsResolve.mp3",
+      "_id": "EAMwfCTrgkGUl2u2",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Roofsoflavender",
+      "path": "modules/michaelghelfi/music/RoofsOfLavender.mp3",
+      "_id": "aswOJ7cS1d26EjwX",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Tavernsofglaenarm",
+      "path": "modules/michaelghelfi/music/TavernsOfGlaenarm.mp3",
+      "_id": "gMAttIbamoIh2pzG",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Thealliancereforged",
+      "path": "modules/michaelghelfi/music/TheAllianceReforged.mp3",
+      "_id": "yTQ3At6FyM5UooAT",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Theeldritchcreature",
+      "path": "modules/michaelghelfi/music/TheEldritchCreature.mp3",
+      "_id": "nIQJgLTABJbaTbCg",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Theinn",
+      "path": "modules/michaelghelfi/music/TheInn.mp3",
+      "_id": "oycoITLfG35QkXlV",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Thenortherner",
+      "path": "modules/michaelghelfi/music/TheNortherner.mp3",
+      "_id": "PAtBTlOpSyNRLAcs",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Theorderoflightandshadow",
+      "path": "modules/michaelghelfi/music/TheOrderOfLightandShadow.mp3",
+      "_id": "pgkN0LifIPdvcZXV",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Thevalkyries",
+      "path": "modules/michaelghelfi/music/TheValkyries.mp3",
+      "_id": "WIBosO8iK0GYGrOs",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "name": "Warmachine",
+      "path": "modules/michaelghelfi/music/WarMachine.mp3",
+      "_id": "y5DZHpKUrEYlHAlG",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {}
+    }
+  ],
+  "mode": 0,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": null,
+  "flags": {
+    "exportSource": {
+      "world": "dod-en",
+      "system": "dragonbane",
+      "coreVersion": "11.307",
+      "systemVersion": "1.2.0"
+    }
+  },
+  "_stats": {
+    "systemId": "dragonbane",
+    "systemVersion": "1.2.0",
+    "coreVersion": "11.307",
+    "createdTime": 1687942850434,
+    "modifiedTime": 1692483557678,
+    "lastModifiedBy": "onLtC8v0K2iJeAJ6"
+  },
+  "description": ""
+}

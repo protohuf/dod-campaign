@@ -1,0 +1,41 @@
+{
+  "name": "smith",
+  "sounds": [
+    {
+      "name": "Bbc Blacksmith 07070127",
+      "path": "sound/bsa/bbc_blacksmith_07070127.mp3",
+      "repeat": false,
+      "fade": null,
+      "description": "",
+      "volume": 0.03,
+      "_id": "xWedBWSiIq6ewsG8",
+      "playing": false,
+      "pausedTime": null,
+      "sort": 0,
+      "flags": {}
+    }
+  ],
+  "mode": 0,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": null,
+  "flags": {
+    "exportSource": {
+      "world": "dod-en",
+      "system": "dragonbane",
+      "coreVersion": "11.307",
+      "systemVersion": "1.2.0"
+    }
+  },
+  "_stats": {
+    "systemId": "dragonbane",
+    "systemVersion": "1.2.0",
+    "coreVersion": "11.307",
+    "createdTime": 1686136649836,
+    "modifiedTime": 1692483590967,
+    "lastModifiedBy": "onLtC8v0K2iJeAJ6"
+  },
+  "description": ""
+}

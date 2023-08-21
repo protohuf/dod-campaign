@@ -1,0 +1,41 @@
+{
+  "name": "restaurant",
+  "sounds": [
+    {
+      "name": "Bbc Germany R 07026103",
+      "path": "sound/bsa/bbc_germany--r_07026103.mp3",
+      "repeat": false,
+      "fade": null,
+      "description": "",
+      "volume": 0.03,
+      "_id": "mwpJi5jelnZdEZ17",
+      "playing": false,
+      "pausedTime": null,
+      "sort": 0,
+      "flags": {}
+    }
+  ],
+  "mode": 0,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": 997,
+  "flags": {
+    "exportSource": {
+      "world": "dod-en",
+      "system": "dragonbane",
+      "coreVersion": "11.307",
+      "systemVersion": "1.2.0"
+    }
+  },
+  "_stats": {
+    "systemId": "dragonbane",
+    "systemVersion": "1.2.0",
+    "coreVersion": "11.307",
+    "createdTime": 1686130572646,
+    "modifiedTime": 1692483576441,
+    "lastModifiedBy": "onLtC8v0K2iJeAJ6"
+  },
+  "description": ""
+}

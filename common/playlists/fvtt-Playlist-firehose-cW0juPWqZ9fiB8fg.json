@@ -1,0 +1,41 @@
+{
+  "name": "firehose",
+  "sounds": [
+    {
+      "name": "Bbc Fires Fi 07025155",
+      "path": "sound/bsa/bbc_fires---fi_07025155.mp3",
+      "repeat": false,
+      "fade": null,
+      "description": "",
+      "volume": 0.03,
+      "_id": "8xej6hdU6OcI2ULg",
+      "playing": false,
+      "pausedTime": null,
+      "sort": 0,
+      "flags": {}
+    }
+  ],
+  "mode": 0,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": null,
+  "flags": {
+    "exportSource": {
+      "world": "dod-en",
+      "system": "dragonbane",
+      "coreVersion": "11.307",
+      "systemVersion": "1.2.0"
+    }
+  },
+  "_stats": {
+    "systemId": "dragonbane",
+    "systemVersion": "1.2.0",
+    "coreVersion": "11.307",
+    "createdTime": 1686131318473,
+    "modifiedTime": 1692483509648,
+    "lastModifiedBy": "onLtC8v0K2iJeAJ6"
+  },
+  "description": ""
+}
