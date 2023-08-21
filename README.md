@@ -129,6 +129,8 @@ Nine scenes to represent various locations in outskirt including the crypt of um
 
 # Installation
 
+These installation instructions are only applicable to **Version 2.0**.
+
 Unfortunately you will have to do quite alot of manual installation. Sorry about that.
 
 ## Update the Required game system and modules
