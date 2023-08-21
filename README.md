@@ -200,16 +200,16 @@ Viper: Tokens/Creatures/CR_1%E2%81%848/Poisonous_Snake_Tiny_Beast_01.png
 
 You can select your own or copy mine:
 
-Adventurer: Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Barbarian_Greataxe_01.png
-Archmage (Boss): Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Wizard_Staff_Magic_Spellbook_01.png
-Bandit: Tokens/advesaries/FA_Tokens/Adversaries/Bandits/Bandit_Brute_Shovel_01.png
-Bandit Chief (Boss): Tokens/advesaries/FA_Tokens/Adversaries/Bandits/Bandit_Captain_Sword_Dagger_B_01.png
-Cultist: Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Warlock_Sword_01.png
-Guard: Tokens/advesaries/Tokens/Adversaries/Desert_Guards/Desert_Guard_Sword_Shield_01.png
-Hunter: Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Ranger_Bow_01.png
-Knight Champion (Boss): Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Cleric_Mace_Shield_01.png
-Thief: Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Rogue_Daggers_01.png
-Scholar: Tokens/npc/Tokens/NPCs/Townsfolk/Human/Human_Male_Crier_04.png
+* Adventurer: Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Barbarian_Greataxe_01.png
+* Archmage (Boss): Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Wizard_Staff_Magic_Spellbook_01.png
+* Bandit: Tokens/advesaries/FA_Tokens/Adversaries/Bandits/Bandit_Brute_Shovel_01.png
+* Bandit Chief (Boss): Tokens/advesaries/FA_Tokens/Adversaries/Bandits/Bandit_Captain_Sword_Dagger_B_01.png
+* Cultist: Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Warlock_Sword_01.png
+* Guard: Tokens/advesaries/Tokens/Adversaries/Desert_Guards/Desert_Guard_Sword_Shield_01.png
+* Hunter: Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Ranger_Bow_01.png
+* Knight Champion (Boss): Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Cleric_Mace_Shield_01.png
+* Thief: Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Rogue_Daggers_01.png
+* Scholar: Tokens/npc/Tokens/NPCs/Townsfolk/Human/Human_Male_Crier_04.png
 
 ### Random villagers
 * Only edit the prototype token for villagers and set the __Image Path__ to: Tokens/npc/FA_Tokens/NPCs/Townsfolk_02/*.png
