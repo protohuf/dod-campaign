@@ -257,9 +257,9 @@ In the battlemaps scene folder, create 8 empty scenes. Right click each scene, s
 
 I recommend creating a sub folder for each chapter in the adventure book (e.g. 02 - Opening Scene, etc.). Under each subfolder, create empty scenes and import the json scenes for each of the scene for the adventures.
 
-**If you are using the English version of Dragonbane, import the adventure scenes from the __en__ subdirectory**
+If you are using the English version of Dragonbane, import the adventure scenes from the __en__ subdirectory
 
-**If you are using the Swedish version of Dragonbane, import the adventure scenes from the __sv__ subdirectory**
+If you are using the Swedish version of Dragonbane, import the adventure scenes from the __sv__ subdirectory
 
 ### Restart the Game World
 
