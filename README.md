@@ -144,15 +144,15 @@ Make sure your FoundryVTT, dragonbane game system and modules are at least these
 
 ## Install Highly recommended modules
 
-Make sure you have the following modules are installed and up to date as well since these modules provide important game mechanics
+Make sure you have the following modules installed and up to date as well since these modules provide important game mechanics
 
 * FXMaster - Additional weather and dungeon effects
 * Torch - Abilitiy to create a light surrounding a character (some maps are very dark, as they should be)
 * Michael Ghelfi Studios Audio Pack - Ambient sound effects and music
 
-## Installing DoDCampaign-v2.0.7z
+## Installing DoDCampaign.7z
 
-* Extract the DoDCampaign-v2.0.7z archive
+* Extract the DoDCampaign.7z archive
 * Copy the contents of the Data folder to FoundryVTT's Data folder
 
 ## Game World Setup
@@ -169,6 +169,9 @@ Make sure you have the following modules are installed and up to date as well si
 * Popup: Dragonbane Rules: Import Adventure
 * Popup: Dragonbane - Adventures: Import Adventure
   * Yes overwrite
+* Go to Game Settings -> Configure Settings -> Torch
+  * Set Bright Light Radius to 5
+  * Set Dim Light Radius to 10
 
 ## Adding Missing Token Portraits
 For the following tokens (in Actors -> Dragonbane - Adventures), add the following paths to the token/prototype token portraits.
@@ -191,12 +194,12 @@ You do this by:
 * Worg: images/campaign/npc/enemy/ulv.png
 
 ### 9. Oracle Cave
-Spiderlings: Tokens/Creatures/CR_0/Spider_Many_Tiny_Beast_01.png
-The eel Beast: Tokens/Creatures/CR_1%E2%81%842/Giant_Sea_Horse_Large_Beast_01.png
+* Spiderlings: Tokens/Creatures/CR_0/Spider_Many_Tiny_Beast_01.png
+* The eel Beast: Tokens/Creatures/CR_1%E2%81%842/Giant_Sea_Horse_Large_Beast_01.png
 
 ### 11. Dead Eye Cave
-The Basilisk: Tokens/Creatures/CR_1%E2%81%848/Flying_Snake_Tiny_Beast_01.png
-Viper: Tokens/Creatures/CR_1%E2%81%848/Poisonous_Snake_Tiny_Beast_01.png
+* The Basilisk: Tokens/Creatures/CR_1%E2%81%848/Flying_Snake_Tiny_Beast_01.png
+* Viper: Tokens/Creatures/CR_1%E2%81%848/Poisonous_Snake_Tiny_Beast_01.png
 
 ### Actors -> Dragonbane Rules -> Typical NPCs
 
@@ -224,7 +227,7 @@ This will place random villagers when placing villager tokens on a map.
 ## Importing Playlists:
 * Create an empty Playlist with a temporary name and close the playlist dialogue
 * Right click the new playlist and select import data
-* Navigate to your downloaded DoDCampaign folder, select: common -> playlists and select the first playlist
+* Navigate to your downloaded DoDCampaign -> common -> playlists folder and select a playlist (.json format)
 
 Repeat this procedure for all playlist lists in the common -> playlists folder
 
@@ -233,8 +236,8 @@ Repeat this procedure for all playlist lists in the common -> playlists folder
 I created a journal with images for the Riddermound adventure that can be shown to players if desired.
 
 * Go to Journal -> Create Journal Entry -> Select a temporary name and click _Create new Journal Entry_.
-* Right click the jounral and select _Import Data_
-* navigate to DoDCampaign -> common -> journal and select fvtt-JournalEntry-05-riddermound-0zEHMf0ZOZxPlSAh.json
+* Right click the journal and select _Import Data_
+* Navigate to DoDCampaign -> common -> journal and select fvtt-JournalEntry-05-riddermound-0zEHMf0ZOZxPlSAh.json
 * Click Import
 
 ## Scenes
@@ -267,91 +270,90 @@ If you are using the Swedish version of Dragonbane, import the adventure scenes 
 
 ## Set playlists in scenes
 
-The last step is to set the playlists to play on scene activation. You can experiment with the playlists and/or choose your own; I found that we following works for me:
+The last step is to set the playlists to play on scene activation. I provide my selected playlists but you can of course experiment.
 
-TO set a scene playlist; Right click on a scene ans choose configure. Click the _Ambience_ and select the Scene Playlist (and optionally Playlist sound)
+To set a scene playlist; Right click on a scene and choose _Configure_. Click the _Ambience_ tab and select the Scene Playlist (and optionally Playlist sound)
 
 ### 2 Start Scene
-- Drakmar pass - Desert Wind
+- Drakmar pass: Scene Playlist: Desert Wind
 
 ### 4 Outskirts
-- BM inn - Music - TheInn
-- BM Town - Ambient - VillageMarketplace
-- Crypt Um-durman - Ambient - Cavern of Horror
-- Outskirt - Inn - Music - TheInn
-- Outskirt - Mill - Ambient - Craftmensguild
-- Outskirt - Dranath - Music - Crimsoncrowbrimstoneircle
-- Outskirt - Smith - smith playlist
-- Outskirt - temple - ambient - simplecave
-- Outskirt - tradeshop - shops playlist 
+- BM inn: Scene Playlist: Music, Playlist Sound: TheInn
+- BM Town: Scene Playlist: michaelghelfi-ambient, Playlist Sound: VillageMarketplace
+- Crypt Um-durman: Scene Playlist: michaelghelfi-ambient, Playlist Sound: Cavern of Horror
+- Outskirt - Inn: Scene Playlist: michaelghelfi-music, Playlist Sound: TheInn
+- Outskirt - Mill: Scene Playlist: michaelghelfi-ambient, Playlist Sound: Craftmensguild
+- Outskirt - Dranath: Scene Playlist: michaelghelfi-music, Playlist Sound: Crimsoncrowbrimstoneircle
+- Outskirt - Smith: Scene Playlist: smith playlist
+- Outskirt - temple: Scene Playlist: michaelghelfi-ambient, Playlist Sound: simplecave
+- Outskirt - tradeshop: Scene Playlist: shops playlist 
 
 ### 5 Riddermound
-- Kummeln - eerie wind playlist
-- Riddermound - Ambient - Hallofnightmares
+- Burial Mound: Scene Playlist: eerie wind playlist
+- Riddermound: Scene Playlist: michaelghelfi-ambient, Playlist Sound: Hallofnightmares
 
 ### 7 Purple Temple
-- Demoncity - Inside human playlist
-- Over - ambient - precursor hall
+- Demoncity: Scene Playlist: Inside human playlist
+- Ground Level: Scene Playlist: michaelghelfi-ambient, Playlist Sound: precursor hall
 
 ### 8 Tower of Sighs
-- Outside/level 2,3,roof = swamp
+- Outside/level 2,3,roof: Scene Playlist: swamp
 
 ### 10 Trollspire
-- Crypt - Ambient - Haunted House Cellar
-- Roof - Abient - Snowing
+- Crypt: Scene Playlist: michaelghelfi-ambient, Playlist Sound: Haunted House Cellar
+- Roof: Scene Playlist: michaelghelfi-ambient, Playlist Sound: Snowing
 
 ### 11 Dead Eye
-- Cave - Ambient - Cavern of trials
+- Cave: Scene Playlist: michaelghelfi-ambient, Playlist Sound: Cavern of trials
 
 ### 12 Fort Mallus
-- Fort - Ambient - DarketsForest
-- Fort - Ambient - Darketforest
+- Fort: Scene Playlist: michaelghelfi-ambient, Playlist Sound: DarkestForest
 
 ### 13 Yesterdays village
-- Village - Music - Beyond the frost barrier
-- tower 4 - music - The eldrich creature
+- Village: Scene Playlist: michaelghelfi-music, Playlist Sound: Beyond the frost barrier
+- tower 4: Scene Playlist: michaelghelfi-music, Playlist Sound: The eldrich creature
 
 ### 14 Road's end inn
-- Inn - music - taverns of glaenarm
-- Haunted INn - Ambient - Hall of nightmares
+- Inn: Scene Playlist: michaelghelfi-music, Playlist Sound: taverns of glaenarm
+- Haunted Inn: Scene Playlist: michaelghelfi-ambient, Playlist Sound: Hall of nightmares
 
 ### 15 Isle of mists
-- Isle - ambient - worlds end
-- cave - ambient - dungeon of the dead three
-- labyrinth - ambient - generic dungeon
+- Isle: Scene Playlist: michaelghelfi-ambient, Playlist Sound: worlds end
+- cave: Scene Playlist: michaelghelfi-ambient, Playlist Sound: dungeon of the dead three
+- labyrinth: Scene Playlist: michaelghelfi-ambient, Playlist Sound: generic dungeon
 
 ### Travel Scenes
-- egg - eerie wind
-- archer - ambient - daytime forest
-- griffon - crimsonarchers
-- hanged cultists - eerie wind
-- obelisk - ambient- dimensiongate
-- old woman herbalist - ambient - daytime forest
-- sefyra thunder
-- outskirts gate - music - beyond the frost barrier
-- wounded adventurers - fireplace
+- egg: Scene Playlist: eerie wind
+- archer: Scene Playlist: michaelghelfi-ambient, Playlist Sound: daytime forest
+- griffon: Scene Playlist: crimsonarchers
+- hanged cultists: Scene Playlist: eerie wind
+- obelisk: Scene Playlist: michaelghelfi-ambient, Playlist Sound: dimensiongate
+- old woman herbalist: Scene Playlist: michaelghelfi-ambient, Playlist Sound: daytime forest
+- sefyra: Scene Playlist: thunder
+- outskirts gate: Scene Playlist: michaelghelfi-music, Playlist Sound: beyond the frost barrier
+- wounded adventurers: Scene Playlist: fireplace
 
 ### Battlemaps
-- city entrance - forest
-- dark mountains - thunder
-- desert mountains - desert winds
-- forest outskirt - forest
-- forest road - forest
-- mountains - thunder
-- swamp bridge - swamp
-- thicker forest - forest
+- city entrance: Scene Playlist: forest
+- dark mountains: Scene Playlist: thunder
+- desert mountains: Scene Playlist: desert winds
+- forest outskirt: Scene Playlist: forest
+- forest road: Scene Playlist: forest
+- mountains: Scene Playlist: thunder
+- swamp bridge: Scene Playlist: swamp
+- thicker forest: Scene Playlist: forest
 
 ### Omen
-- black rider - eerie wind
-- cluds - eerie wind
-- eclipse - eerie wind
-- falling stars - Music - Beyond the frost barrier
-- ambient - worlds end
-- frogs - swamp
-- locust swamp
-- quake - eerie wind
-- raining blood - rain
-- volcano - thunder
+- black rider: Scene Playlist: eerie wind
+- cluds: Scene Playlist: eerie wind
+- eclipse: Scene Playlist: eerie wind
+- falling stars: Scene Playlist: michaelghelfi-music, Playlist Sound: Beyond the frost barrier
+- ambient: Scene Playlist: worlds end
+- frogs: Scene Playlist: swamp
+- locust: Scene Playlist: swamp
+- quake: Scene Playlist: eerie wind
+- raining blood: Scene Playlist: rain
+- volcano: Scene Playlist: thunder
 
 # Acknowledgement
 Tiles and NPC tokens from [Forgotten Adventures](https://www.forgotten-adventures.net/)
