@@ -1,3 +1,6 @@
+# DoDCampaign-v2.0 - 2023-08-21
+Converted the assets to the official Dragonbane system / module.
+
 # DoDCampaign-v1.2 - 2023-06-28
 Fixed missing background music and ambient sound in most scenes. Fixed small typeos and removed unused assets
 
