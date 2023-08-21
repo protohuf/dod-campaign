@@ -176,12 +176,12 @@ For the following tokens (in Actors -> Dragonbane - Adventures), add the followi
 You do this by:
 * Clicking the actor in the right-hand menu
 * Click the portrait
-* Paste the path under the __Selected__ input box
-* Click __Select File__
-* Click __Prototype Token__
-* Click __Appearance__
-* Paste the path in the __Image Path__ input box
-* Click __Update Token__
+* Paste the path under the _Selected_ input box
+* Click _Select File_
+* Click _Prototype Token_
+* Click _Appearance_
+* Paste the path in the _Image Path_ input box
+* Click _Update Token_
 
 ### 4. Journeys
 * Tylos: Tokens/heroes/FA_Tokens/Heroes/_Catch-All_Heroes/Paladin_Sword_Shield_01.png
@@ -214,9 +214,9 @@ You can select your own or copy mine:
 * Scholar: Tokens/npc/Tokens/NPCs/Townsfolk/Human/Human_Male_Crier_04.png
 
 ### Random villagers
-* Only edit the prototype token for villagers and set the __Image Path__ to: Tokens/npc/FA_Tokens/NPCs/Townsfolk_02/*.png
-* Make sure to enable __Randomize Wildcard Images__ in the prototype token
-* Click __Update Token__
+* Only edit the prototype token for villagers and set the _Image Path_ to: Tokens/npc/FA_Tokens/NPCs/Townsfolk_02/*.png
+* Make sure to enable _Randomize Wildcard Images_ in the prototype token
+* Click _Update Token_
 
 This will place random villagers when placing villager tokens on a map.
 
@@ -232,8 +232,8 @@ Repeat this procedure for all playlist lists in the common -> playlists folder
 
 I created a journal with images for the Riddermound adventure that can be shown to players if desired.
 
-* Go to Journal -> Create Journal Entry -> Select a temporary name and click __Create new Journal Entry__.
-* Right click the jounral and select __Import Data__
+* Go to Journal -> Create Journal Entry -> Select a temporary name and click _Create new Journal Entry_.
+* Right click the jounral and select _Import Data_
 * navigate to DoDCampaign -> common -> journal and select fvtt-JournalEntry-05-riddermound-0zEHMf0ZOZxPlSAh.json
 * Click Import
 
@@ -257,9 +257,9 @@ In the battlemaps scene folder, create 8 empty scenes. Right click each scene, s
 
 I recommend creating a sub folder for each chapter in the adventure book (e.g. 02 - Opening Scene, etc.). Under each subfolder, create empty scenes and import the json scenes for each of the scene for the adventures.
 
-If you are using the English version of Dragonbane, import the adventure scenes from the __en__ subdirectory
+If you are using the English version of Dragonbane, import the adventure scenes from the _en_ subdirectory
 
-If you are using the Swedish version of Dragonbane, import the adventure scenes from the __sv__ subdirectory
+If you are using the Swedish version of Dragonbane, import the adventure scenes from the _sv_ subdirectory
 
 ### Restart the Game World
 
@@ -269,7 +269,7 @@ If you are using the Swedish version of Dragonbane, import the adventure scenes 
 
 The last step is to set the playlists to play on scene activation. You can experiment with the playlists and/or choose your own; I found that we following works for me:
 
-TO set a scene playlist; Right click on a scene ans choose configure. Click the __Ambience__ and select the Scene Playlist (and optionally Playlist sound)
+TO set a scene playlist; Right click on a scene ans choose configure. Click the _Ambience_ and select the Scene Playlist (and optionally Playlist sound)
 
 ### 2 Start Scene
 - Drakmar pass - Desert Wind
