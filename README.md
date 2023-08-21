@@ -1,5 +1,5 @@
 # Dragonbane Starter Campaign FoundryVTT Game World
-**TL;DR:** Download [DoDCampaign.7z](https://github.com/protohuf/dod-campaign/releases/download/v2.0/DoDCampaign.7z) from the [release page](https://github.com/protohuf/dod-campaign/releases/tag/v2.0), then read the [Installation](https://github.com/protohuf/dod-campaign#installation) instructions below very carefully
+**TL;DR:** Download [DoDCampaign.7z](https://github.com/protohuf/dod-campaign/releases/download/v2.0/DoDCampaign.7z) from the release page, then read the [Installation](https://github.com/protohuf/dod-campaign#installation) instructions below very carefully
 
 **Spoiler Alert:** This repo contains resources for the Dragonbane starter campaign intended for GM's. Consuming this repos might spoil the adventure as a player.
 
